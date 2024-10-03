@@ -53,7 +53,7 @@ body {
     position: relative;
 }
 .hero__background {
-    background-image: url(../teachable/1\ Background-10.png);
+    background-image: url(./1\ Background-10.png);
     position: absolute;
     z-index: 1;
     top: 0;
@@ -499,7 +499,7 @@ body {
     transform: scale(0.7);
 }
 .test {
-    background-image: url(../teachable/Artboard\ 1.png);
+    background-image: url(./Artboard\ 1.png);
     height: 25rem;
     width: 80%;
     background-position: center;
